@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--mp-hlx-test--mpetria.hlx.page/
+- Live: https://main--mp-hlx-test--mpetria.hlx.live/
 
 ## Installation
 
